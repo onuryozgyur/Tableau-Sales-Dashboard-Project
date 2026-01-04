@@ -1,5 +1,5 @@
 # Tableau-Sales-Dashboard-Project
-My first Tableau project created by following Data with Baraa's Tableau videos.
+My first Tableau project created by following Data with Baraa's [this](https://youtu.be/dahrmqT5GD4?si=IPzEXCXgnVCC4alV) video.
 
 Here's the link for Tableau Public page of the project: [Click here to go to project](https://public.tableau.com/app/profile/onur.zg.r/viz/SalesProject_17660700113140/SalesDashboard)
 
