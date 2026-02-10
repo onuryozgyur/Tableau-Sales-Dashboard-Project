@@ -1,5 +1,5 @@
-# Tableau-Sales-Dashboard-Project
-This is my first Tableau project.
+# Tableau Sales Dashboard Project
+This is my first Tableau dashboard project.
 
 Here's the link for the Tableau Public page of the project: [Click here to go to project](https://public.tableau.com/app/profile/onur.zg.r/viz/SalesProject_17660700113140/SalesDashboard)
 
@@ -84,7 +84,7 @@ Allow users to filter data by product information like category and subcategory,
 
 ## Sales Dashboard
 
-### Preparation of Data
+### Preparation of Data Visualization
 
 #### KPI Step 1
 
@@ -110,17 +110,9 @@ Allow users to filter data by product information like category and subcategory,
 
 <img width="1443" height="834" alt="Weekly Trends" src="https://github.com/user-attachments/assets/53038031-c3bb-4653-b092-a118bb867cbe" />
 
-#### Legend Subcategory
-
-<img width="1457" height="835" alt="Legend Subcategory" src="https://github.com/user-attachments/assets/5b684d17-7a77-4964-9983-2f070f087bee" />
-
-#### Legend KPI
-
-<img width="1457" height="835" alt="Legend KPI" src="https://github.com/user-attachments/assets/45110e79-ac31-4ae6-ae62-4425fcc19b74" />
-
 ## Customer Dashboard
 
-### Preparation of Data
+### Preparation of Data Visualization
 
 #### KPI Customer
 
